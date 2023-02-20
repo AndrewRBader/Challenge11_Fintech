@@ -7,6 +7,11 @@ Google Search and Stock Correlation With Prophet
 
 ---
 
+## Google colab link:
+https://colab.research.google.com/drive/1lShqx69nJoHfHHpLBAn-M-O76LkY9pZr?usp=sharing
+
+__
+
 ## Summary
 In this challenge, we used FB prophet to predict correlations between Google closing prices and search activity. We found peak activity is during the week, in the evenings and dips in the month of October based on these predictions. We found there is a correlation between the search activity and closing price of Google as expected
 --
